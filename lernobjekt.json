@@ -1,0 +1,35 @@
+{
+    "lernobjekte": [{
+        "id": "1",
+        "name": "Animation Basics",
+        "link": "animation_basics.html",
+        "prev": [ { "id" : "6",
+                    "name" : "C for graphics",
+                    "link": "cg.html"}],
+        "ext": [ { "id" : "4",
+                   "name" : "Design",
+                   "link": "design.html"}]    
+    },    
+    {
+        "id": "2",
+        "name": "Interpolation",
+        "link": "interpolation.html",
+        "prev": [ { "id" : "7",
+                     "name" :"Mathe",
+                     "link": "mathe.html"}],
+        "ext": [ { "id" : "5",
+                     "name" :"Extrapolation",
+                     "link": "extrapolation.html"}]    
+    },
+    {
+        "id": "3",
+        "name": "Kinegraph",
+        "link": "kgraph.html",
+        "prev": [ { "id" : "4",
+                     "name" : "Design",
+                     "link": "design.html"}],
+        "ext": [ { "id" : "8",
+                     "name" :"Ease In/ Ease Out",
+                     "link": "ease_in_out.html"}]             
+    }
+]}
